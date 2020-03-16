@@ -12,7 +12,6 @@
 
 
 微信
-![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat2.jpg)
-
+![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat3.jpg)
 支付宝
-![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay2.jpg)
+![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
