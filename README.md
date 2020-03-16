@@ -12,7 +12,7 @@
 # 支持作者
 
 Wechat ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat4.jpg)
-AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
+AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay4.jpg)
 
 
 # - 基于Python的xlwt、xlrt、stmplib库
