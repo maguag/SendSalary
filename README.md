@@ -9,5 +9,8 @@
 
 
 #支持作者
-![wechat](https://github.com/maguag/SendSalary/img/wechat.jpg)
-![alipay](https://github.com/maguag/SendSalary/img/alipay.jpg)
+
+
+
+![wechat](https://github.com/maguag/SendSalary/tree/master/img/wechat.jpg)
+![alipay](https://github.com/maguag/SendSalary/tree/master/img/alipay.jpg)
