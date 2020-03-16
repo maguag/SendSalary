@@ -13,7 +13,7 @@
 
 ##### Wechat ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat3.jpg)
 
-##### AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
+AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
 
 
 # - 基于Python的xlwt、xlrt、stmplib库
