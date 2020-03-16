@@ -8,12 +8,7 @@
 
 
 
-#支持作者
+支持作者
 
 
-微信
-![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat3.jpg)
-
-
-支付宝
-![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
+微信![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat3.jpg)        支付宝![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
