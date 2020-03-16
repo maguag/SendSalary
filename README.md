@@ -11,6 +11,8 @@
 #支持作者
 
 
-
+微信
 ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat2.jpg)
+
+支付宝
 ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay2.jpg)
