@@ -16,6 +16,6 @@
 ##### AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay3.jpg)
 
 
-# - 基于xlwt,xlrt，stmplib库
+# - 基于Python的xlwt、xlrt、stmplib库
 
 
