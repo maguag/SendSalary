@@ -9,7 +9,7 @@
 
 
 
-# 支持作者
+# - 支持作者
 | 微信                                                        | 支付宝                                                |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
 | ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat4.jpg)   | ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay4.jpg)  |
