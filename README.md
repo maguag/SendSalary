@@ -10,9 +10,11 @@
 
 
 # 支持作者
+| 微信                                                        | 支付宝                                                |
+| ---------------------------------------------------------- | ---------------------------------------------------- |
+| ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat4.jpg)   | ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay4.jpg)  |
 
-Wechat ![wechat](https://github.com/maguag/SendSalary/blob/master/img/wechat4.jpg)
-AliPay ![alipay](https://github.com/maguag/SendSalary/blob/master/img/alipay4.jpg)
+
 
 
 # - 基于Python的xlwt、xlrt、stmplib库
