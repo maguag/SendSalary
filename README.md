@@ -10,4 +10,4 @@
 
 
 
-***基于xlwt,xlr库
+***基于xlwt,xlrt，stmplib库
