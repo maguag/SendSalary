@@ -12,5 +12,5 @@
 
 
 
-![wechat](https://github.com/maguag/SendSalary/tree/master/img/wechat1.jpg)
-![alipay](https://github.com/maguag/SendSalary/tree/master/img/alipay1.jpg)
+![wechat](https://github.com/maguag/SendSalary/tree/master/img/wechat2.jpg)
+![alipay](https://github.com/maguag/SendSalary/tree/master/img/alipay2.jpg)
