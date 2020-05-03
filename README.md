@@ -17,6 +17,6 @@
 
 
 
-# - 基于Python的xlwt、xlrt、stmplib库
+# - 基于Python的xlwt、xlrd、stmplib库
 
 
